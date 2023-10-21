@@ -1,4 +1,4 @@
-![image](https://github.com/Mathias143000/Mathias143000/assets/147920690/1d0f5152-24fe-4f37-b1eb-862dd962401b)<div id="badges" align="center">
+<div id="badges" align="center">
   <a href= "https://vk.com/the_gxxd_guy">
     <img src = "https://img.shields.io/badge/VK-blue?style=for-the-badge&logo=VK&logoColor=white" alt "VK Badge" />
   </a>
