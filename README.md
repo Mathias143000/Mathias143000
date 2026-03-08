@@ -1,20 +1,27 @@
 <div align="center">
 
-# Привет, я Данила 👋  
+# Данила Вилков 👋  
 ### Python Backend Developer · API · Integrations · Observability
 
-<img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3500&color=58A6FF&center=true&vCenter=true&width=700&lines=Python+Backend+Developer;FastAPI+%7C+Django+%7C+PostgreSQL;Docker+%7C+Monitoring+%7C+APIs;Building+reliable+backend+systems"/>
+<img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3200&color=58A6FF&center=true&vCenter=true&width=900&lines=Python+Backend+Developer;FastAPI+%7C+Django+%7C+PostgreSQL;Docker+%7C+Prometheus+%7C+Grafana;Building+reliable+backend+systems"/>
 
-<p>
-  <a href="https://vk.com/the_gxxd_guy">
-    <img src="https://img.shields.io/badge/VK-0077FF?style=for-the-badge&logo=vk&logoColor=white"/>
-  </a>
-  <a href="mailto:teriomta@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
+<br>
 
-<img src="https://komarev.com/ghpvc/?username=Mathias143000&style=flat-square&color=blue"/>
+<a href="https://vk.com/id465453768">
+<img src="https://img.shields.io/badge/VK-0077FF?style=for-the-badge&logo=vk&logoColor=white"/>
+</a>
+
+<a href="https://t.me/YOUR_TELEGRAM">
+<img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/>
+</a>
+
+<a href="mailto:teriomta@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=Mathias143000&style=flat-square&color=3b82f6"/>
 
 </div>
 
@@ -23,63 +30,54 @@
 # 👨‍💻 Обо мне
 
 Я backend-разработчик на Python.  
-Люблю строить **рабочие системы целиком**, а не только писать код: от API и бизнес-логики до контейнеризации, мониторинга и инфраструктуры.
+Мне нравится строить **рабочие системы целиком**: от API и бизнес-логики до Docker-окружения, мониторинга и инфраструктуры.
 
-Интересуюсь направлениями:
+Основные интересы:
 
-- Backend разработка
-- API архитектура
-- интеграции и webhook-сервисы
-- observability (метрики, логи, мониторинг)
-- воспроизводимые окружения и DevOps-подход
+- backend-разработка
+- API и интеграции
+- webhook-сервисы
+- monitoring / observability
+- работа с данными и SQL
+- воспроизводимые окружения
 
-В проектах стараюсь уделять внимание:
+В проектах уделяю внимание:
 
-- понятной архитектуре
+- архитектуре
 - безопасности
-- контролю доступа
 - тестированию
-- логированию и метрикам
+- метрикам и логам
 - контейнеризации
 
 ---
 
 # 🛠 Основной стек
 
-<div align="center">
-
-<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="45"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original.svg" width="45"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" width="45"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" width="45"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" width="45"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original.svg" width="45"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="45"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" width="45"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" width="45"/>
-
-</div>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,fastapi,django,postgres,docker,redis,git,github,linux"/>
+</p>
 
 ### Технологии
 
-- **Python 3**
-- **FastAPI**
-- **Django / Django REST Framework**
-- **PostgreSQL**
-- **SQLAlchemy**
-- **Redis**
-- **Docker / Docker Compose**
-- **pytest**
-- **Git / GitHub**
-- **Linux**
+- Python 3  
+- FastAPI  
+- Django / DRF  
+- PostgreSQL  
+- SQLAlchemy  
+- Redis  
+- Docker / Docker Compose  
+- pytest  
+- GitHub Actions  
+- Linux  
+- REST API / JWT / asyncio  
 
 ### Monitoring / Observability
 
-- **Prometheus**
-- **Grafana**
-- **Loki**
-- **InfluxDB**
-- **Telegraf**
+- Prometheus  
+- Grafana  
+- Loki  
+- InfluxDB  
+- Telegraf  
 
 ---
 
@@ -88,62 +86,88 @@
 <div align="center">
 
 <a href="https://github.com/Mathias143000/service-desk-django">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mathias143000&repo=service-desk-django&theme=github_dark"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Mathias143000&repo=service-desk-django&theme=tokyonight&hide_border=true"/>
 </a>
 
 <a href="https://github.com/Mathias143000/webhook-receiver">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mathias143000&repo=webhook-receiver&theme=github_dark"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Mathias143000&repo=webhook-receiver&theme=tokyonight&hide_border=true"/>
 </a>
 
+<br>
+
 <a href="https://github.com/Mathias143000/etl-mini-pipeline">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mathias143000&repo=etl-mini-pipeline&theme=github_dark"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Mathias143000&repo=etl-mini-pipeline&theme=tokyonight&hide_border=true"/>
 </a>
 
 <a href="https://github.com/Mathias143000/monitoring-stack-demo">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mathias143000&repo=monitoring-stack-demo&theme=github_dark"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Mathias143000&repo=monitoring-stack-demo&theme=tokyonight&hide_border=true"/>
 </a>
 
 </div>
 
 ---
 
-# 📈 GitHub статистика
+# 📊 GitHub статистика
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Mathias143000&show_icons=true&theme=github_dark&hide_border=true" height="170"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Mathias143000&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mathias143000&layout=compact&theme=github_dark&hide_border=true" height="170"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mathias143000&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img height="170" src="https://streak-stats.demolab.com?user=Mathias143000&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
 
-# 📊 Активность
+# 📈 Активность
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mathias143000&theme=github-dark&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mathias143000&theme=tokyo-night&hide_border=true&area=true"/>
 
 </div>
 
 ---
 
-# ⚙️ Инженерный подход
+# 🐍 GitHub Snake
 
-Стараюсь строить сервисы так, чтобы они были:
+<div align="center">
 
-- простыми в поддержке
-- наблюдаемыми (метрики + логи)
-- воспроизводимыми через Docker
-- понятными для других разработчиков
+<img src="https://raw.githubusercontent.com/Mathias143000/Mathias143000/output/github-contribution-grid-snake-dark.svg"/>
 
-Основные принципы:
+</div>
 
-- код должен быть читаемым
-- сервис должен иметь метрики
-- важная логика должна тестироваться
-- инфраструктура должна подниматься одной командой
+---
+
+# 🏗 Архитектурный подход
+
+Я стараюсь строить сервисы так, чтобы они были:
+
+- понятными
+- наблюдаемыми
+- легко воспроизводимыми
+- удобными для поддержки
+
+### Типичная архитектура
+Клиент / Интеграция
+↓
+FastAPI / Django API
+↓
+Бизнес-логика / permissions / validation
+↓
+PostgreSQL / Redis / внешние API
+↓
+Метрики / Логи / Healthcheck
+↓
+Prometheus / Grafana / Loki
 
 ---
 
@@ -151,11 +175,11 @@
 
 Интересуют позиции:
 
-- **Junior Python Backend Developer**
-- **Junior+ Backend**
-- **Data / ETL Junior**
-- **SaaS / Support Engineer**
-- **SRE Junior**
+- Junior Python Backend Developer  
+- Junior+ Backend  
+- Data / ETL Junior  
+- SaaS / Support Engineer  
+- SRE Junior  
 
 Особенно интересны:
 
@@ -167,18 +191,8 @@
 
 ---
 
-# 📬 Контакты
-
-VK:  
-https://vk.com/id465453768  
-
-Email:  
-mailto:teriomta@gmail.com
-
----
-
 <div align="center">
 
-### Спасибо, что заглянули в профиль 👀
+Спасибо, что заглянули в профиль 👀
 
 </div>
