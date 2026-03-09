@@ -135,20 +135,15 @@
 ### Архитектура типичного backend-сервиса
 
 Client / External integrations
-↓ 
-**API слой**  
+↓ **API слой**  
 FastAPI / Django
-↓ 
-**Бизнес-логика**  
+↓ **Бизнес-логика**  
 Validation / Permissions / Services
-↓ 
-**Хранилище данных**  
+↓ **Хранилище данных**  
 PostgreSQL / Redis
-↓ 
-**Observability**  
+↓ **Observability**  
 Metrics / Logs / Healthcheck
-↓ 
-**Monitoring**  
+↓ **Monitoring**  
 Prometheus / Grafana
 
 ---
