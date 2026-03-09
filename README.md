@@ -91,10 +91,6 @@
 
 ## 📊 GitHub статистика
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mathias143000&layout=compact&theme=tokyonight&hide_border=true&exclude_repo=Mathias143000&cache_seconds=1800)
-
-<br><br>
-
 <p align="center">
 
 <img height="170" src="https://streak-stats.demolab.com?user=Mathias143000&theme=tokyonight&hide_border=true"/>
