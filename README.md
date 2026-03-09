@@ -82,10 +82,10 @@
 
 | Проект | Описание | Стек |
 |---|---|---|
-| [service-desk-django](https://github.com/Mathias143000/service-desk-django) | Service Desk / ITSM-платформа с backend-логикой, ролями и API | Django, DRF, PostgreSQL, Docker |
-| [webhook-ingestion-service](https://github.com/Mathias143000/webhook-ingestion-service) | Сервис приёма и обработки webhook-событий | FastAPI, PostgreSQL, Docker |
-| [weather-etl-pipeline](https://github.com/Mathias143000/weather-etl-pipeline) | ETL-пайплайн для загрузки и обработки погодных данных | Python, ETL, PostgreSQL |
-| [monitoring-stack-demo](https://github.com/Mathias143000/monitoring-stack-demo) | Демонстрация monitoring/observability-стека | Prometheus, Grafana, Docker |
+| [service-desk-django](https://github.com/Mathias143000/service-desk-django) | Backend-система обработки заявок с ролями, JWT-аутентификацией и API | Django, DRF, PostgreSQL, Docker |
+| [webhook-ingestion-service](https://github.com/Mathias143000/webhook-ingestion-service) | Асинхронный сервис приёма webhook-событий с обработкой задач | FastAPI, Redis, PostgreSQL |
+| [weather-etl-pipeline](https://github.com/Mathias143000/weather-etl-pipeline) | Мини ETL-пайплайн для загрузки, трансформации и хранения погодных данных | Python, SQLAlchemy, PostgreSQL |
+| [monitoring-stack-demo](https://github.com/Mathias143000/monitoring-stack-demo) | Демо observability-стека для backend сервисов | Prometheus, Grafana, Docker |
 
 ---
 
@@ -131,6 +131,20 @@
 - добавляю Docker-окружение
 - настраиваю тесты и CI
 - делаю метрики, логи и мониторинг
+
+### Пример архитектуры backend-сервиса
+
+Client / Integration
+↓
+FastAPI / Django API
+↓
+Business Logic / Validation
+↓
+PostgreSQL / Redis
+↓
+Metrics / Logs / Healthcheck
+↓
+Prometheus / Grafana
 
 ---
 
