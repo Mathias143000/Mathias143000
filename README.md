@@ -80,33 +80,16 @@
 
 ## 🚀 Избранные проекты
 
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Mathias143000&repo=service-desk-django&theme=tokyonight&hide_border=true&cache_seconds=86400" />
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Mathias143000&repo=webhook-ingestion-service&theme=tokyonight&hide_border=true&cache_seconds=86400" />
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Mathias143000&repo=weather-etl-pipeline&theme=tokyonight&hide_border=true&cache_seconds=86400" />
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Mathias143000&repo=monitoring-stack-demo&theme=tokyonight&hide_border=true&cache_seconds=86400" />
-
-</p>
+| Проект | Описание | Стек |
+|---|---|---|
+| [service-desk-django](https://github.com/Mathias143000/service-desk-django) | Service Desk / ITSM-платформа с backend-логикой, ролями и API | Django, DRF, PostgreSQL, Docker |
+| [webhook-ingestion-service](https://github.com/Mathias143000/webhook-ingestion-service) | Сервис приёма и обработки webhook-событий | FastAPI, PostgreSQL, Docker |
+| [weather-etl-pipeline](https://github.com/Mathias143000/weather-etl-pipeline) | ETL-пайплайн для загрузки и обработки погодных данных | Python, ETL, PostgreSQL |
+| [monitoring-stack-demo](https://github.com/Mathias143000/monitoring-stack-demo) | Демонстрация monitoring/observability-стека | Prometheus, Grafana, Docker |
 
 ---
 
 ## 📊 GitHub статистика
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Mathias143000&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=86400"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mathias143000&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400"/>
-
-</p>
 
 <p align="center">
 
