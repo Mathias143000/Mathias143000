@@ -132,18 +132,23 @@
 - настраиваю тесты и CI
 - делаю метрики, логи и мониторинг
 
-### Пример архитектуры backend-сервиса
+### Архитектура типичного сервиса
 
-Client / Integration
-↓
+Client / External Integration
+        │
+        ▼
 FastAPI / Django API
-↓
+        │
+        ▼
 Business Logic / Validation
-↓
+        │
+        ▼
 PostgreSQL / Redis
-↓
+        │
+        ▼
 Metrics / Logs / Healthcheck
-↓
+        │
+        ▼
 Prometheus / Grafana
 
 ---
