@@ -80,47 +80,39 @@
 
 ## 🚀 Избранные проекты
 
-<div align="center">
+<p align="center">
 
-<a href="https://github.com/Mathias143000/service-desk-django">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mathias143000&repo=service-desk-django&theme=tokyonight&hide_border=true" alt="service-desk-django" />
-</a>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Mathias143000&repo=service-desk-django&theme=tokyonight&hide_border=true&cache_seconds=86400" />
 
-<a href="https://github.com/Mathias143000/webhook-ingestion-service">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mathias143000&repo=webhook-ingestion-service&theme=tokyonight&hide_border=true" alt="webhook-ingestion-service" />
-</a>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Mathias143000&repo=webhook-ingestion-service&theme=tokyonight&hide_border=true&cache_seconds=86400" />
 
-<br>
+</p>
 
-<a href="https://github.com/Mathias143000/weather-etl-pipeline">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mathias143000&repo=weather-etl-pipeline&theme=tokyonight&hide_border=true" alt="weather-etl-pipeline" />
-</a>
+<p align="center">
 
-<a href="https://github.com/Mathias143000/monitoring-stack-demo">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mathias143000&repo=monitoring-stack-demo&theme=tokyonight&hide_border=true" alt="monitoring-stack-demo" />
-</a>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Mathias143000&repo=weather-etl-pipeline&theme=tokyonight&hide_border=true&cache_seconds=86400" />
 
-</div>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Mathias143000&repo=monitoring-stack-demo&theme=tokyonight&hide_border=true&cache_seconds=86400" />
+
+</p>
 
 ---
 
 ## 📊 GitHub статистика
 
-<div align="center">
+<p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Mathias143000&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Mathias143000&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=86400"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mathias143000&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mathias143000&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400"/>
 
-</div>
+</p>
 
-<br>
+<p align="center">
 
-<div align="center">
+<img height="170" src="https://streak-stats.demolab.com?user=Mathias143000&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://streak-stats.demolab.com?user=Mathias143000&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-
-</div>
+</p>
 
 ---
 
