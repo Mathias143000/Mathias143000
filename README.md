@@ -88,10 +88,9 @@
 | [monitoring-stack-demo](https://github.com/Mathias143000/monitoring-stack-demo) | Демо observability-стека для backend сервисов | Prometheus, Grafana, Docker |
 
 ---
-## 📊 GitHub статистика
+## 📊 Языки
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Mathias143000&show_icons=true&theme=tokyonight&hide_border=true" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mathias143000&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
