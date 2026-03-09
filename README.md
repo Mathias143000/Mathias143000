@@ -90,7 +90,7 @@
 ---
 ## 📊 Языки
 
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Mathias143000&layout=compact&theme=tokyonight&hide_border=true&exclude_repo=Mathias143000)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Mathias143000&layout=compact&langs_count=5&theme=tokyonight&hide_border=true&exclude_repo=Mathias143000"/>
 
 ## 📊 GitHub статистика
 
