@@ -90,9 +90,7 @@
 ---
 ## 📊 Языки
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mathias143000&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Mathias143000&layout=compact&theme=tokyonight&hide_border=true&exclude_repo=Mathias143000)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 📊 GitHub статистика
 
