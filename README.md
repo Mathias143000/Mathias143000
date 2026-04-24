@@ -3,7 +3,7 @@
 # Терёшин Матвей 👋
 ### DevOps Engineer · Kubernetes · GitOps · On-Prem Platform
 
-<img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3200&color=58A6FF&center=true&vCenter=true&width=980&lines=DevOps+Engineer;Kubernetes+%7C+Flux+%7C+Helm;Vault+%7C+MetalLB+%7C+Traefik+%7C+Jaeger;Building+runnable+platform+labs+with+runbooks+and+drills" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3200&color=F59E0B&center=true&vCenter=true&width=980&lines=DevOps+Engineer;Kubernetes+%7C+Flux+%7C+Helm;Go+starter+templates+%7C+Vault+%7C+MetalLB+%7C+Traefik;Building+runnable+platform+labs+with+runbooks+and+drills" alt="Typing SVG" />
 
 <br>
 
@@ -17,7 +17,7 @@
   <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
 <br><br>
-<img src="https://komarev.com/ghpvc/?username=Mathias143000&style=flat-square&color=3b82f6" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=Mathias143000&style=flat-square&color=f59e0b" alt="Profile views" />
 
 </div>
 
@@ -25,10 +25,12 @@
 
 ## 👨‍💻 Обо мне
 
-Я DevOps / Platform-инженер с фокусом на контейнерные платформы, Kubernetes-кластеры, GitOps, observability и эксплуатационную зрелость систем.  
+Я DevOps Engineer с platform-minded фокусом на контейнерные платформы, Kubernetes-кластеры, GitOps, observability и эксплуатационную зрелость систем.  
 Собираю production-style стенды целиком: от Linux-автоматизации, routing и secret delivery до логирования, метрик, трейсинга, rollback/recovery и runbooks.
 
-Сильная сторона портфолио сейчас в том, что все `12` активных DevOps-репозиториев доведены до `Definition of Done` и `portfolio visible ready`: у каждого есть README, архитектурная схема, quick demo flow, runbook, smoke/evidence path и известные ограничения. Это делает проекты не просто “кодом”, а демонстрационными инженерными стендами.
+Сейчас ядро портфолио состоит из `12` отдельных DevOps-репозиториев: platform labs, workload-стендов, observability/IaC/DR/DataOps/MLOps кейсов. Сильная сторона этой витрины в том, что проекты оформлены как runnable инженерные стенды: с README, архитектурной схемой, quick demo flow, runbooks, smoke/evidence path и понятными ограничениями.
+
+Отдельно важно текущее состояние platform-линии: `platform-engineering-starter-kit` теперь показывает golden path не только для Python, но и для Go. Это усиливает портфолио не новым случайным языком, а platform enablement сигналом: service bootstrap, health/readiness/metrics contract, Docker pattern и минимальный CI под единым шаблоном.
 
 Основные интересы:
 
@@ -36,9 +38,10 @@
 - GitOps и управляемый delivery flow
 - monitoring / logging / tracing / SRE-практики
 - отказоустойчивость, rollback и disaster recovery
+- platform enablement, golden paths и service bootstrap
 - внутренние platform-команды, enterprise и regulated-контуры
 
-Для инфраструктурных вакансий наиболее релевантны мои стенды:
+Для инфраструктурных вакансий наиболее релевантны мои стенды и enablement-репозитории:
 
 - `enterprise-onprem-platform-lab`
 - `micro-service-stand`
@@ -46,30 +49,52 @@
 - `monitoring-stack-demo`
 - `terraform-cloud-foundation-lab`
 - `postgres-dr-lab`
+- `platform-engineering-starter-kit`
 
 ---
 
 ## 🛠 Основной стек
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,bash,docker,kubernetes,terraform,postgres,redis,linux,github" alt="Tech stack" />
+  <img src="https://skillicons.dev/icons?i=go,python,bash,powershell,docker,kubernetes,terraform,aws,postgres,redis,linux,nginx,django,fastapi,githubactions&theme=light&perline=8" alt="Tech stack" />
 </p>
+
+### Лого ключевого platform / observability стека
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=helm&logoColor=white" alt="Helm" />
+  <img src="https://img.shields.io/badge/Flux-5468FF?style=flat-square&logo=flux&logoColor=white" alt="Flux" />
+  <img src="https://img.shields.io/badge/Argo%20CD-EF7B4D?style=flat-square&logo=argo&logoColor=white" alt="Argo CD" />
+  <img src="https://img.shields.io/badge/Vault-000000?style=flat-square&logo=vault&logoColor=white" alt="Vault" />
+  <img src="https://img.shields.io/badge/Traefik-24A1C1?style=flat-square&logo=traefikproxy&logoColor=white" alt="Traefik" />
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white" alt="Prometheus" />
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" alt="Grafana" />
+  <img src="https://img.shields.io/badge/Loki-FCC624?style=flat-square&logo=grafana&logoColor=black" alt="Loki" />
+  <img src="https://img.shields.io/badge/Jaeger-66CFE3?style=flat-square&logo=jaeger&logoColor=black" alt="Jaeger" />
+  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white" alt="RabbitMQ" />
+  <img src="https://img.shields.io/badge/MinIO-C72E49?style=flat-square&logo=minio&logoColor=white" alt="MinIO" />
+  <img src="https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white" alt="MLflow" />
+</p>
+
+Нишевые инструменты без стабильных logo-badges в используемом наборе иконок оставлены в явном текстовом списке ниже: `MetalLB`, `External Secrets`, `SOPS`, `Tempo`, `pgBackRest`, `Grafana Alloy`, `Promtail`.
 
 ### Технологии
 
-- Linux / Bash / Python / PowerShell
+- Linux / Bash / Python / Go / PowerShell / SQL
 - Docker / Docker Compose / container runtime operations
-- Kubernetes / `k3s` / Helm / Flux / Argo CD
+- Kubernetes / `k3s` / `k3d` / Helm / Flux / Argo CD / cert-manager
 - Nginx / Traefik / MetalLB / ingress / service exposure / reverse proxy
 - Vault / External Secrets / SOPS / secret workflows
-- Prometheus / Grafana / Alertmanager / Loki / Jaeger / Tempo / OpenTelemetry
-- PostgreSQL / Redis / RabbitMQ / MinIO
-- Terraform / AWS / IaC / backup-restore / runbooks / drills
+- Prometheus / Grafana / Alertmanager / Loki / Jaeger / Tempo / OpenTelemetry / Grafana Alloy / Promtail
+- PostgreSQL / Redis / RabbitMQ / MinIO / pgBackRest / S3 / DynamoDB
+- Terraform / AWS / IaC / GitHub Actions / backup-restore / runbooks / drills
+- Django REST Framework / FastAPI / Socket.IO / SQLAlchemy / MLflow
 
 ### Что особенно релевантно для инфраструктурных вакансий
 
 - multi-node Kubernetes clusters и reproducible bootstrap
 - GitOps delivery, rollout и rollback
+- platform starter templates и единый service contract для новых сервисов
 - ingress routing, балансировка и north-south exposure
 - секреты и конфигурация через Vault-подход
 - observability не только на словах, а через metrics/logs/traces/evidence
@@ -102,22 +127,22 @@
 | Проект | Роль в портфолио | Зачем нужен | Что показывает | Ключевой стек |
 |---|---|---|---|---|
 | [enterprise-onprem-platform-lab](https://github.com/Mathias143000/enterprise-onprem-platform-lab) | Enterprise / on-prem flagship | Нужен как главный мост к инфраструктурным, государственным и regulated-вакансиям с акцентом на внутренние платформы | multi-node `k3d/k3s`, `Flux`, `Helm`, `MetalLB`, `Traefik`, `Vault`, `External Secrets`, `MinIO`, `Prometheus`, `Grafana`, `Loki`, `Jaeger`, release → break → rollback drill | `k3s`, Flux, Helm, Vault, MetalLB, Traefik, MinIO, Jaeger |
-| [micro-service-stand](https://github.com/Mathias143000/micro-service-stand) | Core platform flagship | Нужен как главный DevOps-стенд про сервисную платформу, миграцию и эксплуатацию распределённой системы | service extraction, `nginx` edge, observability stack, backup/restore, Python automation, recovery story, DoD-готовая витрина | Docker Compose, Nginx, PostgreSQL, Redis, RabbitMQ, MinIO, Prometheus, Grafana |
-| [k8s-gitops-platform-lab](https://github.com/Mathias143000/k8s-gitops-platform-lab) | Kubernetes / GitOps flagship | Нужен как общий cloud-native кейс про кластерный delivery lifecycle | `Helm`, Argo CD, ingress, TLS automation, HPA, GitOps rollout/rollback, secret flow и reproducible cluster bootstrap | Kubernetes, Helm, Argo CD, cert-manager, SOPS, GitOps |
+| [micro-service-stand](https://github.com/Mathias143000/micro-service-stand) | Supporting service-platform lab | Нужен как стенд про workload topology: service extraction, edge, async dependencies, observability и backup/restore вокруг реальных сервисов | service extraction, `nginx` edge, observability stack, backup/restore, Python automation, recovery story, DoD-готовая витрина | Docker Compose, Nginx, PostgreSQL, Redis, RabbitMQ, MinIO, Prometheus, Grafana, Alertmanager, Loki, Tempo, OpenTelemetry |
+| [k8s-gitops-platform-lab](https://github.com/Mathias143000/k8s-gitops-platform-lab) | Baseline Kubernetes / GitOps lab | Нужен как чистый cloud-native кейс про delivery lifecycle до более тяжёлого enterprise/on-prem сценария | `Helm`, Argo CD, ingress, TLS automation, HPA, GitOps rollout/rollback, secret flow и reproducible cluster bootstrap | Kubernetes, Helm, Argo CD, cert-manager, SOPS, GitOps |
 | [monitoring-stack-demo](https://github.com/Mathias143000/monitoring-stack-demo) | Observability flagship | Нужен как отдельный SRE-слой для диагностики, алертов и инцидентного evidence | dashboards, alerting, centralized logs, traces, synthetic checks, incident evidence collection | Prometheus, Grafana, Alertmanager, Loki, Jaeger, Tempo |
 | [terraform-cloud-foundation-lab](https://github.com/Mathias143000/terraform-cloud-foundation-lab) | IaC flagship | Нужен как отдельная история про инфраструктурное проектирование, remote state и environment lifecycle | reusable modules, remote state, IAM, networking, apply/destroy/import runbooks, evidence of locking and state workflow | Terraform, AWS, S3, DynamoDB, IAM, VPC |
-| [postgres-dr-lab](https://github.com/Mathias143000/postgres-dr-lab) | Reliability / DR flagship | Нужен для демонстрации зрелости в recovery, а не только в выкладке сервисов | backup automation, restore drill, corruption simulation, verification, RPO/RTO assumptions, recovery runbook | PostgreSQL, pgBackRest, Bash, Python |
+| [postgres-dr-lab](https://github.com/Mathias143000/postgres-dr-lab) | Reliability / DR flagship | Нужен для демонстрации зрелости в recovery, а не только в выкладке сервисов | backup automation, restore drill, corruption simulation, verification, freshness metrics, recovery runbook | PostgreSQL, pgBackRest, Go, Bash, Python, Prometheus |
+| [platform-engineering-starter-kit](https://github.com/Mathias143000/platform-engineering-starter-kit) | Platform enablement showcase | Нужен как отдельный кейс про internal developer platform и golden path для нового сервиса | единый starter path для `Python` и `Go`, health/readiness/liveness, `/metrics`, structured logging, Docker pattern, minimal CI, docs/runbook scaffolding | Go, Python, Docker, Prometheus, GitHub Actions, starter CLI |
 
 ### Остальные проекты
 
 | Проект | Что дополняет | Стек |
 |---|---|---|
-| [service-desk-api](https://github.com/Mathias143000/service-desk-api) | Production-style workload для Kubernetes/GitOps/on-prem стендов: auth/RBAC, SLA-oriented API, health/metrics path | Django REST Framework, PostgreSQL, Redis, Celery, Docker |
-| [webhook-ingestion-service](https://github.com/Mathias143000/webhook-ingestion-service) | Event-driven слой: webhook intake, retries, idempotency, очереди, worker flow и observability | FastAPI, RabbitMQ, Redis, PostgreSQL, Prometheus |
-| [share-chat](https://github.com/Mathias143000/share-chat) | Stateful / real-time workload: persistent connections, shared state, uploads, reverse proxying и reconnect behavior | Node.js, Socket.IO, Redis, MinIO, Nginx |
-| [platform-engineering-starter-kit](https://github.com/Mathias143000/platform-engineering-starter-kit) | Golden path для внутренних платформ: шаблон сервиса, стандартизация Docker/CI/health/runbook layer | Python, templating, service scaffolding, platform conventions |
-| [weather-etl-pipeline](https://github.com/Mathias143000/weather-etl-pipeline) | DataOps-покрытие: ETL orchestration, freshness, pipeline reliability и evidence-oriented data runtime | Python, SQLAlchemy, PostgreSQL, ETL tooling |
-| [eyewear-detection-pipeline](https://github.com/Mathias143000/eyewear-detection-pipeline) | MLOps-покрытие: model lifecycle, serving flow, artifacts, observability и inference operations | Python, MLflow, MinIO, Prometheus, API serving |
+| [service-desk-api](https://github.com/Mathias143000/service-desk-api) | Production-style workload для Kubernetes/GitOps/on-prem стендов: auth/RBAC, SLA-oriented API, health/metrics path | Django REST Framework, PostgreSQL, Redis, Celery, Docker, OpenTelemetry |
+| [webhook-ingestion-service](https://github.com/Mathias143000/webhook-ingestion-service) | Event-driven слой: webhook intake, retries, idempotency, очереди, worker flow и observability | FastAPI, RabbitMQ, Redis, PostgreSQL, Prometheus, Tempo |
+| [ShareChat](https://github.com/Mathias143000/share-chat) | Stateful / real-time workload: persistent connections, shared state, uploads, reverse proxying и reconnect behavior | Node.js, Socket.IO, Redis, MinIO, Nginx, Prometheus |
+| [weather-etl-pipeline](https://github.com/Mathias143000/weather-etl-pipeline) | DataOps-покрытие: ETL orchestration, freshness, pipeline reliability и evidence-oriented data runtime | Python, SQLAlchemy, PostgreSQL, ETL tooling, quality gates |
+| [eyewear-detection-pipeline](https://github.com/Mathias143000/eyewear-detection-pipeline) | MLOps-покрытие: model lifecycle, serving flow, artifacts, observability и inference operations | Python, FastAPI, MLflow, MinIO, PostgreSQL, Prometheus, Grafana, Loki |
 
 ---
 
@@ -125,7 +150,7 @@
 
 <p align="center">
 
-<img height="170" src="https://streak-stats.demolab.com?user=Mathias143000&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://streak-stats.demolab.com?user=Mathias143000&theme=default&hide_border=true&background=FFF7ED&ring=F59E0B&fire=F59E0B&currStreakLabel=C2410C&sideNums=D97706&sideLabels=9A3412&dates=7C2D12&stroke=FED7AA"/>
 
 </p>
 
@@ -135,7 +160,7 @@
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mathias143000&theme=tokyonight" alt="Profile summary" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mathias143000" alt="Profile summary" />
 
 </div>
 
@@ -150,6 +175,7 @@
 ### Что для меня важно
 
 - delivery должен быть воспроизводимым, управляемым и понятным оператору
+- новый сервис должен стартовать с понятного golden path, а не с импровизации
 - сервисы и platform-компоненты должны иметь healthchecks, metrics, logs и traces
 - ingress, балансировка, secrets, storage и routing должны быть частью архитектуры, а не “потом прикрутим”
 - rollback, recovery и failure modes нужно продумывать заранее
@@ -159,6 +185,7 @@
 
 - проектирую сервисные и инфраструктурные границы
 - собираю reproducible runtime через контейнеры, compose или Kubernetes
+- там, где это уместно, закладываю reusable starter kit / service contract
 - настраиваю CI/CD и, где нужно, GitOps delivery
 - добавляю observability: metrics, logs, traces, dashboards, alerts
 - оформляю smoke path, rollback/recovery flow и maintenance runbooks
