@@ -56,27 +56,10 @@
 ## 🛠 Основной стек
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=go,python,bash,powershell,docker,kubernetes,terraform,aws,postgres,redis,linux,nginx,django,fastapi,githubactions&theme=light&perline=8" alt="Tech stack" />
+  <img src="https://skillicons.dev/icons?i=go,python,bash,docker,kubernetes,terraform,aws,postgres,redis,linux,nginx,githubactions&theme=light&perline=6" alt="Core stack" />
 </p>
 
-### Лого ключевого platform / observability стека
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=helm&logoColor=white" alt="Helm" />
-  <img src="https://img.shields.io/badge/Flux-5468FF?style=flat-square&logo=flux&logoColor=white" alt="Flux" />
-  <img src="https://img.shields.io/badge/Argo%20CD-EF7B4D?style=flat-square&logo=argo&logoColor=white" alt="Argo CD" />
-  <img src="https://img.shields.io/badge/Vault-000000?style=flat-square&logo=vault&logoColor=white" alt="Vault" />
-  <img src="https://img.shields.io/badge/Traefik-24A1C1?style=flat-square&logo=traefikproxy&logoColor=white" alt="Traefik" />
-  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white" alt="Prometheus" />
-  <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" alt="Grafana" />
-  <img src="https://img.shields.io/badge/Loki-FCC624?style=flat-square&logo=grafana&logoColor=black" alt="Loki" />
-  <img src="https://img.shields.io/badge/Jaeger-66CFE3?style=flat-square&logo=jaeger&logoColor=black" alt="Jaeger" />
-  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white" alt="RabbitMQ" />
-  <img src="https://img.shields.io/badge/MinIO-C72E49?style=flat-square&logo=minio&logoColor=white" alt="MinIO" />
-  <img src="https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white" alt="MLflow" />
-</p>
-
-Нишевые инструменты без стабильных logo-badges в используемом наборе иконок оставлены в явном текстовом списке ниже: `MetalLB`, `External Secrets`, `SOPS`, `Tempo`, `pgBackRest`, `Grafana Alloy`, `Promtail`.
+В иконках оставлен только core-стек, чтобы верхняя часть README не выглядела перегруженной. Полный набор технологий указан ниже по категориям.
 
 ### Технологии
 
