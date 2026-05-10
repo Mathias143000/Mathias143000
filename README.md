@@ -3,7 +3,7 @@
 # Терёшин Матвей 👋
 ### Junior DevOps / Linux Support · Docker · Monitoring · Python
 
-<img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3200&color=F59E0B&center=true&vCenter=true&width=980&lines=Junior+DevOps+%2F+Linux+Support;Linux+%7C+Docker+%7C+Monitoring;Python+%7C+PostgreSQL+%7C+Redis;Learning+infrastructure+and+service+reliability" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3200&color=F59E0B&center=true&vCenter=true&width=980&lines=Junior+DevOps+%2F+Linux+Support;Linux+%7C+Docker+%7C+Monitoring;Python+%7C+PostgreSQL+%7C+Redis;Service+reliability+%7C+logs+%7C+healthchecks" alt="Typing SVG" />
 
 <br>
 
@@ -25,21 +25,22 @@
 
 ## 👨‍💻 Обо мне
 
-Начинающий DevOps / Linux Support специалист.
+Начинающий DevOps / Linux Support специалист с backend-базой на Python.
 
-Интересуюсь эксплуатацией сервисов, Linux-инфраструктурой, Docker, мониторингом, сетевой диагностикой и автоматизацией рутинных задач.
+Интересуюсь эксплуатацией сервисов, Linux-инфраструктурой, Docker, мониторингом, логированием, сетевой диагностикой и автоматизацией рутинных задач.
 
-В проектах собираю учебные стенды и сервисы, где отрабатываю практические задачи сопровождения: запуск через Docker, health checks, логирование, мониторинг, базовые оповещения, работу с базами данных и диагностику проблем.
+В проектах делаю упор на практические задачи сопровождения: запуск сервисов через Docker, health checks, логи, метрики, базовые оповещения, работу с PostgreSQL/Redis и понятную документацию.
 
 Сейчас основной фокус:
 
 - Linux и базовое администрирование
 - Docker и Docker Compose
 - мониторинг сервисов
+- логирование и health checks
 - сетевые основы и диагностика
 - backend-сервисы на Python
-- PostgreSQL, Redis
-- документация, README и понятный запуск проектов
+- PostgreSQL и Redis
+- понятный запуск и README для проектов
 
 ---
 
@@ -64,24 +65,24 @@
 
 ## 🚀 Избранные проекты
 
-| Проект | Описание | Стек |
+| Проект | Что показывает | Стек |
 |---|---|---|
-| [monitoring-stack-demo](https://github.com/Mathias143000/monitoring-stack-demo) | Учебный стенд для мониторинга сервисов, проверки доступности, метрик и базовых оповещений | Docker Compose, Prometheus, Grafana, Alertmanager |
-| [webhook-ingestion-service](https://github.com/Mathias143000/webhook-ingestion-service) | Сервис для приёма и обработки событий от внешних систем с логированием и проверками состояния | FastAPI, PostgreSQL, Redis, Docker |
-| [service-desk-django](https://github.com/Mathias143000/service-desk-django) | API для обработки заявок, ролей пользователей, статусов и истории изменений | Django REST Framework, PostgreSQL, Docker |
-| [postgres-dr-lab](https://github.com/Mathias143000/postgres-dr-lab) | Учебный стенд для практики резервного копирования и восстановления PostgreSQL | PostgreSQL, Bash, Docker |
-| [platform-engineering-starter-kit](https://github.com/Mathias143000/platform-engineering-starter-kit) | Шаблон для быстрого старта небольшого сервиса с health checks, логированием и Docker-запуском | Python, Go, Docker, GitHub Actions |
+| [monitoring-stack-demo](https://github.com/Mathias143000/monitoring-stack-demo) | Мониторинг сервисов, метрики, проверки доступности и базовые оповещения | Docker Compose, Prometheus, Grafana, Alertmanager |
+| [webhook-ingestion-service](https://github.com/Mathias143000/webhook-ingestion-service) | Приём событий от внешних систем, логирование, обработка ошибок и проверки состояния | FastAPI, PostgreSQL, Redis, Docker |
+| [service-desk-django](https://github.com/Mathias143000/service-desk-django) | API для заявок, ролей пользователей, статусов, истории изменений и сопровождения прикладного сервиса | Django REST Framework, PostgreSQL, Docker |
+| [postgres-dr-lab](https://github.com/Mathias143000/postgres-dr-lab) | Практика резервного копирования и восстановления PostgreSQL | PostgreSQL, Bash, Docker |
+| [platform-engineering-starter-kit](https://github.com/Mathias143000/platform-engineering-starter-kit) | Шаблон небольшого сервиса с health checks, логированием, Docker-запуском и минимальным CI | Python, Go, Docker, GitHub Actions |
 
 ---
 
 ## 📌 Что показывают проекты
 
-- умею собирать сервисы и инфраструктурные стенды через Docker
+- умею собирать сервисы и учебные стенды через Docker
 - понимаю базовую эксплуатацию приложений
 - настраиваю health checks, логирование и мониторинг
 - работаю с PostgreSQL и Redis
 - могу описывать запуск, структуру проекта и ограничения в README
-- развиваюсь в сторону DevOps, Linux support, SRE и infrastructure
+- развиваюсь в сторону DevOps, Linux support, application support и infrastructure
 
 ---
 
